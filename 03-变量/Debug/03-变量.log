@@ -1,0 +1,7 @@
+﻿  03-变量.cpp
+e:\vs workspace\c++编程系列 第一季编程基础\03-变量\03-变量.cpp(19): warning C4101: “my_dog”: 未引用的局部变量
+e:\vs workspace\c++编程系列 第一季编程基础\03-变量\03-变量.cpp(21): warning C4101: “_dog”: 未引用的局部变量
+e:\vs workspace\c++编程系列 第一季编程基础\03-变量\03-变量.cpp(18): warning C4101: “name0”: 未引用的局部变量
+e:\vs workspace\c++编程系列 第一季编程基础\03-变量\03-变量.cpp(16): warning C4101: “Level”: 未引用的局部变量
+e:\vs workspace\c++编程系列 第一季编程基础\03-变量\03-变量.cpp(15): warning C4101: “leveL”: 未引用的局部变量
+  03-变量.vcxproj -> E:\VS Workspace\C++编程系列 第一季编程基础\Debug\03-变量.exe

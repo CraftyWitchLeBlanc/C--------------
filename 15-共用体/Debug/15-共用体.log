@@ -1,0 +1,7 @@
+﻿  15-共用体.cpp
+e:\vs workspace\c++编程系列 第一季编程基础\15-共用体\15-共用体.cpp(13): warning C4624: “test”: 已将析构函数隐式定义为“已删除”
+e:\vs workspace\c++编程系列 第一季编程基础\15-共用体\15-共用体.cpp(13): error C2280: “test::test(void)”: 尝试引用已删除的函数
+  e:\vs workspace\c++编程系列 第一季编程基础\15-共用体\15-共用体.cpp(13): note: 编译器已在此处生成“test::test”
+  “D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe”中的内部编译器错误
+    请选择 Visual C++ 
+  “帮助”菜单上的“技术支持”命令，或打开技术支持帮助文件来获得详细信息

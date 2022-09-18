@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  07-浮点类型（基本类型）.cpp
+e:\vs workspace\c++编程系列 第一季编程基础\07-浮点类型（基本类型）\07-浮点类型（基本类型）.cpp(15): warning C4305: “初始化”: 从“double”到“float”截断
+  07-浮点类型（基本类型）.vcxproj -> E:\VS Workspace\C++编程系列 第一季编程基础\Debug\07-浮点类型（基本类型）.exe
